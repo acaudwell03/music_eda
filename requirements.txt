@@ -1,1 +1,9 @@
+# Core Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Interactive Widgets / Display
+ipywidgets>=8.1.0
+ipython>=8.12.0
 
